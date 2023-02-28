@@ -1,5 +1,5 @@
 # LearnAndroidApp
-Final Project for Mobile Programming Course (Fall 2022)
+Final Project for Mobile Programming Course (Fall '22)
 
 Primaryly focused on condensing all of the course's lesson topics into a local, easy-to-use application
 
